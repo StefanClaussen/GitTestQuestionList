@@ -1,0 +1,5 @@
+Question?
+Explain what 'upstream' remote is usually used for?
+
+Answer?
+Upstream means your code going upwards to the gatekeeper.  For example, have been working on Enrique's code, and want to send you amendments back to Enrique.
