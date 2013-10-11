@@ -1,1 +1,3 @@
 Branch are different threads, roads, branches of the code.  Typically have the master branch which is the live code.  Then have a development branch, which people branch off to work on.  Then bring in the feature branch, bug branch into the development branch.  Development branch can then be merged with master as and when decided.
+
+Did this the incorrect order and misread the question.  Should be question first, and then add the answer.  
