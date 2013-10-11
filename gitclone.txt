@@ -1,0 +1,1 @@
+Command clones a repository into a newly created directory.  Basically, think this is how you take a copy to the codebase that you want to work with on your machine.
